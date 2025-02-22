@@ -1,0 +1,16 @@
+{
+  "name": "tailwindfoodsite",
+  "version": "1.0.0",
+  "description": "A single page website that displays different food recipe for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "tailwindcss": "^4.0.8"
+  }
+}
